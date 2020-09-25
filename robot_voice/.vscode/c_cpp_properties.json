@@ -1,0 +1,62 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/qixianyu/qixianyu/catkin_ros/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/gym_ped_sim-master/actor_plugin/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/strands_perception_people-1.8.1/bayes_people_tracker/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosNavigation/voronoi_planners/dynamicvoronoi/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosUtility/file_image_pub/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/grid_map_costmap_2d/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/strands_perception_people-1.8.1/ground_plane_estimation/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/kobuki-melodic/kobuki_auto_docking/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/kobuki-melodic/kobuki_bumper2pc/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/kobuki-melodic/kobuki_controller_tutorial/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/kobuki_desktop-melodic/kobuki_gazebo_plugins/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/kobuki-melodic/kobuki_keyop/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/kobuki-melodic/kobuki_node/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/kobuki-melodic/kobuki_random_walker/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/kobuki-melodic/kobuki_safety_controller/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/leg_detector/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/joint_leg_tracker/leg_tracker/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/strands_perception_people-1.8.1/mdl_people_tracker/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosNavigation/my_costmap_2d/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/my_get_gazebo_msg/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/my_gridmap/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/my_leg_detector/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/my_openpose_ros/my_openpose_ros/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosNavigation/pluginlib_tutorials/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/navigation_layers-melodic/range_sensor_layer/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/robot_voice/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosNavigation/ros_test/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosNavigation/rrt_exploration/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosNavigation/rrt_planner/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/spencer_people_tracking-master/detection/monocular_detectors/rwth_ground_hog/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/spencer_people_tracking-master/utils/rwth_ground_plane/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/spencer_people_tracking-master/detection/rgbd_detectors/rwth_upper_body_detector/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/strands_perception_people-1.8.1/rwth_upper_body_skeleton_random_walk/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/navigation_layers-melodic/social_navigation_layers/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/spencer_people_tracking-master/utils/spencer_diagnostics/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/spencer_people_tracking-master/detection/laser_detectors/srl_laser_detectors/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/spencer_people_tracking-master/detection/laser_detectors/srl_laser_features/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/spencer_people_tracking-master/detection/laser_detectors/srl_laser_segmentation/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosPerception/spencer_people_tracking-master/tracking/people/srl_nearest_neighbor_tracker/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/turtlebot_pkgs/turtlebot_apps/turtlebot_apps-indigo/turtlebot_actions/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyTestRosOtherLibs/strands_perception_people-1.8.1/upper_body_detector/include/**",
+                "/home/qixianyu/qixianyu/catkin_ros/src/MyRosNavigation/voronoi_planners/voronoi_planner/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

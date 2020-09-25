@@ -1,0 +1,13 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/qixianyu/qixianyu/catkin_ros/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "files.associations": {
+        "*.world": "xml",
+        "string": "cpp",
+        "qisr.h": "c",
+        "speech_recognizer.h": "c",
+        "linuxrec.h": "c"
+    }
+}

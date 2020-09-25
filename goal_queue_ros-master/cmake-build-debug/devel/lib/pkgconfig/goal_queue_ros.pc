@@ -1,0 +1,8 @@
+prefix=/home/zhjd/catkin_ws/src/goal_queue_ros-master/cmake-build-debug/devel
+
+Name: goal_queue_ros
+Description: Description of goal_queue_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
